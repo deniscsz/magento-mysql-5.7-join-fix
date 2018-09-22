@@ -11,3 +11,6 @@ I'm pretty sure the problem still exists in Magento 2.x if they build their quer
 
 ## How to use?
 Either copy the contents of the src folder to your Magento installation folder or deploy this module with [modman](https://github.com/colinmollenhour/modman).
+
+## Author
+Original repository by hvanmegen
